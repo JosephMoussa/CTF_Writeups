@@ -1,7 +1,5 @@
 # CTF_Writeups
 
-# picoCTF Write-ups
-
 This repository contains write-ups for the challenges I have solved on picoCTF. The write-ups are categorized to make it easier to explore specific areas of cybersecurity.
 
 ## Categories
