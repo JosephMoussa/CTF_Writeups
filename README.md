@@ -10,5 +10,8 @@ This repository contains write-ups for the challenges I have solved on picoCTF. 
 - [Cryptography](./Cryptography): Write-ups for cryptography challenges, including encryption, hashing, etc.
 - [Reverse Engineering](./Reverse_Engineering): Write-ups for reverse engineering challenges, including binary analysis and exploitation.
 - [Web Exploitation](./Web_Exploitation): Write-ups for web security challenges, including SQL injection, XSS, etc.
+- [Binary Exploitation](./Binary_Exploitation): Write-ups for binary exploitation challenges.    
+
+
 
 Feel free to browse the categories to explore the specific challenges I’ve solved and the techniques I’ve used.
